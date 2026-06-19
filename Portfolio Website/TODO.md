@@ -1,8 +1,0 @@
-- [x] Create project directory structure (index.html, style.css, script.js, assets/)
-- [x] Implement index.html with all required sections and semantic structure
-- [x] Implement style.css with dark glassmorphism premium styling + responsiveness
-- [x] Implement script.js with: typing effect, IntersectionObserver animations, count-up, skill progress fill, sticky navbar + active links, mobile hamburger menu, smooth scrolling, contact form validation/toast, back-to-top toggle, footer year
-- [x] Create placeholder assets: assets/profile.jpg, assets/project1.jpg..3, assets/resume.pdf, assets/favicon.png
-- [ ] Run a quick local check (open index.html in browser)
-- [ ] Verify mobile hamburger menu + active section highlighting
-- [ ] Verify typing effect, count-up stats, skill progress bars, contact validation/toast, back-to-top button
